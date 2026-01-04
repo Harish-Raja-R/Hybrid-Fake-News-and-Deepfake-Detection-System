@@ -1,0 +1,7 @@
+torch
+transformers
+flask
+requests
+Flask-Cors
+torchvision
+Pillow
